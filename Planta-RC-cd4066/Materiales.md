@@ -1,2 +1,2 @@
-| Ref.	| Componente | Valor	| Cant. |	Huella / Tipo de Empaquetado |
-| ----- | ---------- | ------ | ----- | ---------------------------- |
+| Ref.	| Componente / Valor	| Cant. |	Huella / Tipo de Empaquetado |
+| ----- | ------------------- | ----- | ---------------------------- |
